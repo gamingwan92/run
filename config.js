@@ -43,7 +43,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = '*Stiker sedang dibuat*'
 global.packname = 'stickerby'
-global.author = `ArullOfc`
+global.author = `Wz Store`
 global.wm = 'SEWA BOT DI WZ STORE'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/6129a084ac3e0986bf31c.jpg'
